@@ -15,6 +15,5 @@ git clone https://github.com/jaiwargacki/NewMachine.git
 ```
 sh git-and-ssh-config.sh "<your name>" <your email>
 ```
-When prompted do not enter a name, you may enter a password if you would like. 
-You should see 
+When prompted do not enter a name, you may enter a password if you would like. \
 Go [here](https://github.com/settings/keys) and upload the generated ssh key.
